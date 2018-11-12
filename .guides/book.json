@@ -1,0 +1,17 @@
+{
+ "name": "Places",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "194c36d4-421a-adf9-6a9a-98f2716966e9",
+   "pageId": "194c36d4-421a-adf9-6a9a-98f2716966e9",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "da8050cc-45e9-f89d-de5c-8939af897e63",
+   "pageId": "da8050cc-45e9-f89d-de5c-8939af897e63",
+   "type": "page"
+  }
+ ]
+}
